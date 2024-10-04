@@ -55,11 +55,11 @@ remarks.innerHTML = teacherRemarks;
 
 if (!name && !totalMarks && !obtainedMarks) {
   alert("Please fill all fields");
-  studentName.innerHTML = "Namalom afrad";
-  totalMarksDisplay.innerHTML = "batay hi nahi ";
-  obtainedMarksDisplay.innerHTML = "ye bhi nahi batay";
-  percentageDisplay.innerHTML = "kesy nikalo  jb marks hi nahi batay ";
-  gradeDisplay.innerHTML = "Z";
+  studentName.innerHTML = "xyz";
+  totalMarksDisplay.innerHTML = "xyz ";
+  obtainedMarksDisplay.innerHTML = "xyz";
+  percentageDisplay.innerHTML = "xyz";
+  gradeDisplay.innerHTML = "sorry";
   remarks.innerHTML = "nOt of this school ";
 } else {
 }
